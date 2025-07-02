@@ -1,0 +1,2 @@
+# salary_prediction-model-using-machine-learning-IBM-internship-
+💰 Salary Prediction ML Model  Predict salaries using machine learning in Google Colab! This repo includes:  Preprocessing (cleaning, encoding)  Regression models (Linear, Random Forest)  Easy-to-run notebook  📊 Tech: Python, Scikit-learn, Pandas, Matplotlib 🚀 Use: Upload data, run cells, predict! | ⭐ Star &amp; contribute!  Perfection!
