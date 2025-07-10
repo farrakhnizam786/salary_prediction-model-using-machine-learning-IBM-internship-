@@ -37,6 +37,34 @@ Actual vs predicted plot
 
 Performance metrics
 
+2. Created sample DataFrame (df) with:
+
+Department names
+
+Years of experience
+
+Education levels
+
+Salary data
+
+Added realistic predictions using a simple RandomForest model
+
+Enhanced visualizations:
+
+Violin plots showing salary distribution by department
+
+Actual vs predicted comparison
+
+Salary growth by experience level
+
+Professional formatting:
+
+Proper labels and titles
+
+Grid lines for readability
+
+Consistent styling
+
 
 📂 Repository Structure
 text
