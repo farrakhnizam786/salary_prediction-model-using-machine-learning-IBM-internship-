@@ -21,6 +21,23 @@ Matplotlib/Seaborn (Data Visualization)
 
 Google Colab (Cloud-Based Execution)
 
+* Improvements:
+
+Enhanced Model Comparison Visualization
+
+Defined best_model properly - Used RandomForestRegressor as an example
+
+Added data splitting - Essential for proper evaluation
+
+Complete visualization pipeline:
+
+Feature importance
+
+Actual vs predicted plot
+
+Performance metrics
+
+
 📂 Repository Structure
 text
 salary-prediction-model/  
